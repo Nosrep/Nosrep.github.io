@@ -77,11 +77,11 @@ background-color:#000000;
 #mainPicture .picture
 {
 position:relative;
-width:650px;
-height:325px;
+width:617px;
+height:264px;
 top:10px;
 margin-left:10px;
-background-image:url(mainImage.jpg);
+background-image:url(codeGhost.png);
 background-repeat:no-repeat;
 }
 
